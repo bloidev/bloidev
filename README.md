@@ -10,6 +10,7 @@ Sigue el contenido y novedades de Bloidev en distintas plataformas:
 - [🐦 Twitter / X](https://twitter.com/bloidev)
 - [🎵 TikTok](https://www.tiktok.com/@bloidev)
 - [📺 YouTube](https://www.youtube.com/@bloidev)
+- [🚀 Sitio Web][https://bloidev.com]
 
 ---
 
@@ -18,7 +19,7 @@ Sigue el contenido y novedades de Bloidev en distintas plataformas:
 - Repositorios de proyectos prácticos y educativos
 - Componentes útiles para tus propios proyectos
 - Herramientas y librerías para el ecosistema web
-- Iniciativas open source y experimentos de software
+- Iniciativas open source y experimentos
 
 ---
 
