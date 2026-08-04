@@ -2,6 +2,7 @@
 
 ¡Hola! Bienvenido al perfil de **Bloidev**, desarrollador de software, creación de contenido educativo y difusión del conocimiento en programación y herramientas.
 
+<img width="1619" height="971" alt="fullstack-web-app" src="https://github.com/user-attachments/assets/6bf8463c-2665-49f7-95a9-c7277c72e4e8" />
 ---
 ## 🌍 Redes Oficiales
 Sigue el contenido y novedades de Bloidev en distintas plataformas:
@@ -10,7 +11,7 @@ Sigue el contenido y novedades de Bloidev en distintas plataformas:
 - [🐦 Twitter / X](https://twitter.com/bloidev)
 - [🎵 TikTok](https://www.tiktok.com/@bloidev)
 - [📺 YouTube](https://www.youtube.com/@bloidev)
-- [🚀 Sitio Web][https://bloidev.com]
+- [🚀 Visita mi sitio https://bloidev.com](https://bloidev.com)
 
 ---
 
