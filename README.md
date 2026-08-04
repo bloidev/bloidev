@@ -1,4 +1,4 @@
-# 🚀 Bloidev — Software Developer
+# 🚀 Bloidev — Full Stack Developer | AI Automation | TypeScript | Next.js | Especialista en soluciones de automatización inteligente
 
 ¡Hola! Bienvenido al perfil de **Bloidev**, desarrollador de software, creación de contenido educativo y difusión del conocimiento en programación y herramientas.
 
